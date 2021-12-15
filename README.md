@@ -32,6 +32,10 @@
     </a>
 </div>
 
+<br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raqfranca&theme=buefy&title_color=9145B6&text_color=723881"><br><br>
+</p>
+
 
 ##
 
