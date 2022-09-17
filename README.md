@@ -1,6 +1,6 @@
 # <Oi, Eu sou a Raquel!/>
 
-## Estudante CTD - Fullstack | Back-end | Front-end
+## Estudante CTD - Front-end
 
 ![Alt Text](https://media2.giphy.com/media/134DVXcD94sOWI/giphy.gif?cid=ecf05e47gve7djlyyeir1gfipiz5ek88w4e7inhjksqhbwfy&rid=giphy.gif&ct=g)
 
